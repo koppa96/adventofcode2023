@@ -1,6 +1,0 @@
-github.com/koppa96/adventofcode2023/lib v0.0.0-20231202165437-2a69c00a2b46 h1:iTkHNoadzc5Kja5hPn2EgLDWnrR0QAGOBBBs1GAeAfM=
-github.com/koppa96/adventofcode2023/lib v0.0.0-20231202165437-2a69c00a2b46/go.mod h1:tfBIRGKylGBGaOxe8+lpZVOScQk05rVxWkyJeeZy+Cs=
-github.com/samber/lo v1.39.0 h1:4gTz1wUhNYLhFSKl6O+8peW0v2F4BCY034GRpU9WnuA=
-github.com/samber/lo v1.39.0/go.mod h1:+m/ZKRl6ClXCE2Lgf3MsQlWfh4bn1bz6CXEOxnEXnEA=
-golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 h1:3MTrJm4PyNL9NBqvYDSj3DHl46qQakyfqfWo4jgfaEM=
-golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17/go.mod h1:lgLbSvA5ygNOMpwM/9anMpWVlVJ7Z+cHWq/eFuinpGE=
