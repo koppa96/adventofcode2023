@@ -1,10 +1,10 @@
-package day5
+package day6
 
 import "github.com/spf13/cobra"
 
 var RootCmd = &cobra.Command{
-	Use:   "day5",
-	Short: "Solves the tasks of the fifth day",
+	Use:   "day6",
+	Short: "Solves the tasks of the sixth day",
 }
 
 func init() {

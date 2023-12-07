@@ -3,7 +3,7 @@ package day4
 import "github.com/spf13/cobra"
 
 var RootCmd = &cobra.Command{
-	Use:   "day3",
+	Use:   "day4",
 	Short: "Solves the tasks of the fourth day",
 }
 
