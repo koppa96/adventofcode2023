@@ -2,6 +2,7 @@ package cmd
 
 import (
 	"github.com/koppa96/adventofcode2023/cmd/day1"
+	"github.com/koppa96/adventofcode2023/cmd/day10"
 	"github.com/koppa96/adventofcode2023/cmd/day2"
 	"github.com/koppa96/adventofcode2023/cmd/day3"
 	"github.com/koppa96/adventofcode2023/cmd/day4"
@@ -28,4 +29,5 @@ func init() {
 	RootCmd.AddCommand(day7.RootCmd)
 	RootCmd.AddCommand(day8.RootCmd)
 	RootCmd.AddCommand(day9.RootCmd)
+	RootCmd.AddCommand(day10.RootCmd)
 }
